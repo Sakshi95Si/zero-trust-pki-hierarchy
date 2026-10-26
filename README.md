@@ -18,7 +18,7 @@ A hands-on, production-style Microsoft PKI built on **AD CS**, integrated with a
 
 ## Architecture
 
-![SS](Screenshots/PKI-2tier-Page-2.png)
+![SS](Screenshots/ADCS-PKI.png)
 
 ---
 
